@@ -1,0 +1,13 @@
+server:
+  port: 8999
+
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/palindrome
+    username: root
+    password: Vadlani@a5
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true

@@ -1,0 +1,9 @@
+com\example\palindrome\controller.class
+com\example\palindrome\PalindromeEntity.class
+com\example\palindrome\PalindromeService.class
+com\example\palindrome\PalindromeApplication.class
+com\example\palindrome\PalindromeRequest.class
+com\example\palindrome\UtilsPalindrome.class
+com\example\palindrome\PalindromeEntity$PalindromeEntityBuilder.class
+com\example\palindrome\PalindromeRequest$PalindromeRequestBuilder.class
+com\example\palindrome\PalindromRepo.class
